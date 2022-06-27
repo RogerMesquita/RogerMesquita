@@ -1,4 +1,4 @@
-## Hi, I'm Roger Mesquita. Welcome to my repository.
+## Hi, I'm Roger Mesquita. Welcome to my public repository.
 
 Full Stack Developer Graduated in Computer Science from the Federal University of Goias.
 
