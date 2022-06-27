@@ -1,7 +1,8 @@
-# RogerMesquitaa
+## Hi, I'm Roger Mesquita. Welcome to my repository.
+
 Full Stack Developer Graduated in Computer Science from the Federal University of Goias.
 
-## Hi, I'm Roger Mesquita. Welcome to my repository.
+
   <a href="https://github.com/RogerMesquita">
   <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RogerMesquita&layout=compact&langs_count=8&theme=tokyonight"/>
