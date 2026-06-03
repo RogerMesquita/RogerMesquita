@@ -9,4 +9,6 @@ Full Stack Developer Graduated in Computer Science from the Federal University o
   </div>
   </a>
   </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
 
